@@ -4,7 +4,7 @@ import log_warn from "./log_warn.ts";
 
 export default  class _log{
     log(value:any){
-        log_log(value)
+        logger_log(value)
     }
     error(value:any){
         log_error(value)

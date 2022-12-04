@@ -1,11 +1,11 @@
-import url_host from "./url_host.ts";
-import url_hostname from "./url_hostname.ts";
-import url_origin from "./url_origin.ts";
-import url_password from "./url_password.ts";
-import url_pathname from "./url_pathname.ts";
-import url_port from "./url_port.ts";
-import url_protocol from "./url_protocol.ts";
-import url_search from "./url_search.ts";
+import url_host from "./url/url_host.ts";
+import url_hostname from "./url/url_hostname.ts";
+import url_origin from "./url/url_origin.ts";
+import url_password from "./url/url_password.ts";
+import url_pathname from "./url/url_pathname.ts";
+import url_port from "./url/url_port.ts";
+import url_protocol from "./url/url_protocol.ts";
+import url_search from "./url/url_search.ts";
 
 export default class _url{
     /**

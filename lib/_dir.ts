@@ -1,7 +1,7 @@
-import dir_chdir from "./dir_chdir.ts";
-import dir_cwd from "./dir_cwd.ts";
-import dir_execPath from "./dir_execPath.ts";
-import dir_mainfile from "./dir_mainfile.ts";
+import dir_chdir from "./dir/dir_chdir.ts";
+import dir_cwd from "./dir/dir_cwd.ts";
+import dir_execPath from "./dir/dir_execPath.ts";
+import dir_mainfile from "./dir/dir_mainfile.ts";
 
 
 export default class _dir{
